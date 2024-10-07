@@ -81,11 +81,6 @@ python housing_price_prediction.py
 - **Polynomial Ridge Regression:**
   - R² score for Ridge Regression with second-degree polynomial features.
 
-## Future Work
-
-- Explore more advanced regression techniques like Lasso or ElasticNet.
-- Experiment with hyperparameter tuning for regularization parameters in Ridge and Polynomial Regression.
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
